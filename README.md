@@ -40,13 +40,6 @@ This task demonstrates advanced SQL queries using window functions, CTEs, and cu
 15. **Customer segmentation based on RFM score**
 16. **Track customer segment migration over time**
 
----
-
-### Notes
-
-- All queries written in standard MySQL (version 8+)
-- Each query includes simple English comments above it
-- You can find all queries in the `queries.sql` file
 
 
 
